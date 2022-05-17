@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
+    },
+    {
+        "id": 1,
+        "description": "Clarissa « Clary » Fray est une jeune adulte de 18 ans qui vit à New York avec sa mère et étudie l'art. Lors d'une soirée dans un club new-yorkais, elle assiste au meurtre d'une femme par trois jeunes étranger qu'elle seule semble voir et tue par accident un homme.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://fr.web.img6.acsta.net/r_1920_1080/pictures/15/11/30/16/59/128017.jpg",
+        "date": "20/20/2022",
+        "title": "Shadow Hunters"
+    },
+    {
+        "id": 2,
+        "description": "Inspirée des best-sellers de Jay Asher, 13 Reasons Why suit Clay Jensen, un adolescent qui découvre sous son porche au retour du lycée une mystérieuse boîte portant son nom. À l'intérieur, des cassettes enregistrées par Hannah Baker, une camarade de classe qui s'est tragiquement suicidée deux semaines auparavant.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://m.media-amazon.com/images/I/61RTgYR9a-L._SL1200_.jpg",
+        "date": "20/20/2022",
+        "title": "13 reasons why"
+    },
+    {
+        "id": 3,
+        "description": "Après avoir été témoin du suicide de son sosie, Sarah décide de prendre son identité et découvre un univers rempli de secrets.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://m.media-amazon.com/images/I/91P49qVgHnL._AC_SL1500_.jpg",
+        "date": "20/20/2022",
+        "title": "Orphan Black"
+    },
+    {
+        "id": 4,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
+    },
+    {
+        "id": 5,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
+    },
+    {
+        "id": 6,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
+    },
+    {
+        "id": 7,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
+    }
+]
