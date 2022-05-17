@@ -94,5 +94,17 @@
         "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
         "date": "20/20/2022",
         "title": "Stranger thing"
+    },
+    {
+        "id": 8,
+        "description": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite.",
+        "genres": [
+            1,
+            2,
+            3
+        ],
+        "images": "https://images.ctfassets.net/4cd45et68cgf/22eaxyrfqLTOmD0ZgFJDX0/6d7b8a0f4c3130fd87c9921cbd11d180/image5.jpg",
+        "date": "20/20/2022",
+        "title": "Stranger thing"
     }
 ]

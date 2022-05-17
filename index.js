@@ -9,7 +9,7 @@
     const searchInput = document.getElementById('search')
   
     const pagination = document.getElementById('pagination')
-    const ITEM_PER_PAGE = 12
+    const ITEM_PER_PAGE = 8
     
     const listModel = document.getElementById("btn-listModel")
     const cardModel = document.getElementById("btn-cardModel")
@@ -37,15 +37,15 @@
       if (isListModel === false) {
         data.forEach(function (item, index) {
           htmlContent += `
-            <div class="col-sm-3">
+            <div class="col-xs-1 col-sm-5 col-md-4 col-lg-3">
               <div class="card mb-2 size">
-                <img class="card-img-top " style="height:300px;" src="${item.images}" alt="Card image cap">
+                <img class="card-img-top" style="height:300px;max-width:250px;" src="${item.images}" alt="Card image cap">
                 <div class="card-body movie-item-body ">
                   <h6 class="card-title">${item.title}</h5>
                 </div>
                 <div class="card-footer">
                   <button class="btn btn-primary btn-show-movie" data-toggle="modal" data-target="#show-movie-modal" data-id="${item.id}">More</button>
-                  <button class="btn btn-info btn-add-favorite" data-id="${item.id}">+</button>
+                
                 </div>
               </div>
             </div>
